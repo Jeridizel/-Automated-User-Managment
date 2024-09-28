@@ -7,12 +7,11 @@
 - **User Creation**: Automatically creates new users in multiple systems based on provided input data.
 - **User Updates**: Keeps user information synchronized across different platforms by updating their details such as name, job title, department, etc.
 - **User Deactivation**: Deactivates users upon termination or other triggering events, ensuring proper access management.
-- **Integration with BambooHR**: Seamlessly integrates with BambooHR to fetch and update user data.
 - **Customizable**: The system can be extended to include additional platforms as needed.
 
 ## How It Works
 
-This project is built using automation scripts (PowerShell/Bash) that interact with APIs from various systems to perform the desired operations. The automation reduces the need for manual data entry and ensures that user data is consistent across all platforms.
+This project is built using automation scripts (PowerShell) that interact with APIs from various systems to perform the desired operations. The automation reduces the need for manual data entry and ensures that user data is consistent across all platforms.
 
 ## Input Data Format
 
